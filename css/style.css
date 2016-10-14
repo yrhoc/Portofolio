@@ -1,0 +1,31 @@
+body {
+  background: black;
+  padding-top: 70px;}
+
+.row{
+  margin:5px;
+  min-height:100px
+}
+
+.div-nav{
+  text-align: right;
+}
+
+#img-yisselda{
+  width:20%;
+  margin:0 auto; 
+}
+
+#about{
+  text-align: center;
+  color: white;
+}
+
+.btn {
+  margin:5px;
+}
+
+.thumbnail img{
+  display: block;
+  height: 240px;
+}
