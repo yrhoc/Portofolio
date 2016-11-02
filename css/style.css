@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background-image: url("../18.jpg");
   padding-top: 70px;}
 
 .row{
@@ -9,6 +9,10 @@ body {
 
 .div-nav{
   text-align: right;
+}
+
+.navbar-inverse {
+	opacity : 0.8;
 }
 
 #img-yisselda{
